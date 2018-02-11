@@ -1,0 +1,13 @@
+{
+  "id": "hangouts-chat",
+  "name": "Hangouts Chat",
+  "version": "1.0.0",
+  "description": "Google Hangouts Chat",
+  "main": "index.js",
+  "author": "Michael DeRazon",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://chat.google.com",
+    "hasNotificationSound": true
+  }
+}
